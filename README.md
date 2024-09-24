@@ -15,4 +15,4 @@ KittiCleanGroundAndSave.cpp 去除所有文件的地面点并保存到另一个�
 
 KittiMovingVisualize.cpp 可视化点云的移动物体点
 
-`rosrun my_ros_tool KittiCleanGroundAndSave </path/to/tragetdir>`
+`rosrun my_ros_tool KittiMovingVisualize </path/to/tragetdir>`
